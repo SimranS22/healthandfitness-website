@@ -133,7 +133,7 @@ html{
 
 .bmi{
   /*width: 500px;*/
-  width:75rem;
+  width:100rem;
   position: relative;
   margin-top: 40px;
   left: 50%;
@@ -225,10 +225,7 @@ html{
     .home .slide .content a {
         font-size: 2rem;
       }
-      .bmi{
-   /* width:300px;*/
-      width:50rem;
-      }
+     
       .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
     width: 215px;
@@ -244,11 +241,7 @@ html{
     html{
       font-size: 30%;
     }
-  .bmi{
-   /* width:300px;*/
-      width:30rem;
-      font-size:10px;
-  }
+ 
     .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
     width: 210px;
