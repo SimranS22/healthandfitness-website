@@ -133,7 +133,7 @@ html{
 
 .bmi{
   /*width: 500px;*/
-  width:100rem;
+  width:75rem;
   position: relative;
   margin-top: 40px;
   left: 50%;
@@ -227,7 +227,7 @@ html{
       }
       .bmi{
    /* width:300px;*/
-      width:75rem;
+      width:50rem;
       }
       .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
@@ -246,7 +246,7 @@ html{
     }
   .bmi{
    /* width:300px;*/
-      width:50rem;
+      width:30rem;
       font-size:10px;
   }
     .bmi #weight:focus, .bmi #height:focus{
