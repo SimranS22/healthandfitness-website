@@ -132,8 +132,8 @@ html{
 }
 
 .bmi{
-  /*width: 500px;*/
-  width:100rem;
+  width: 500px;
+  /*width:100rem;*/
   position: relative;
   margin-top: 40px;
   left: 50%;
@@ -225,29 +225,17 @@ html{
     .home .slide .content a {
         font-size: 2rem;
       }
-     
-      .bmi #weight:focus, .bmi #height:focus{
-    border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
-    width: 215px;
-    transition: 0.5s;
-      }
+
   }
 
   
 @media(max-width:450px){
- /* html{
-      font-size: 30%;
-  }*/
+
     html{
       font-size: 30%;
     }
  
-    .bmi #weight:focus, .bmi #height:focus{
-    border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
-    width: 210px;
-    transition: 0.5s;
-    }
-    
+  
 }
   
   
