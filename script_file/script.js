@@ -48,7 +48,7 @@ function BMICalc() {
         BMICategory = "Obese";
     }
 
-    document.getElementById("result").innerHTML="Your BMI is " + BMIo + ". You are " + `${BMICategory}`;
+    document.getElementById("result").innerHTML="Your BMI is " + BMIo + " . You are " + `${BMICategory}`;
 
 }
 
