@@ -132,7 +132,8 @@ html{
 }
 
 .bmi{
-  width: 500px;
+  /*width: 500px;*/
+  width:100rem;
   position: relative;
   margin-top: 40px;
   left: 50%;
@@ -224,6 +225,9 @@ html{
     .home .slide .content a {
         font-size: 2rem;
       }
+      .bmi{
+   /* width:300px;*/
+      width:75rem;
   }
 
   
@@ -232,7 +236,8 @@ html{
       font-size: 30%;
   }
   .bmi{
-    width:300px;
+   /* width:300px;*/
+      width:50rem;
   }
 }
   
