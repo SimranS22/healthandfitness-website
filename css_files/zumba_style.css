@@ -215,6 +215,25 @@ section{
     }
 }
 
+
+@media(max-width:450px){
+    html{
+        font-size:40%;
+    }
+    
+    
+    .heading{
+        width:30rem;
+        font-size: 1rem;
+    }
+    .inform_about .content h3{
+        font-size: 2rem;
+    }
+    .inform_about .content p{
+        font-size: 1.2rem;
+    }
+}
+
 .credits{
 
     text-align: center;
