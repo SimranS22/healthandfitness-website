@@ -225,10 +225,10 @@ html{
     .home .slide .content a {
         font-size: 2rem;
       }
-      .bmi{
+     /* .bmi{*/
        /*width:50rem;*/
-          margin:10px;
-    }
+         /* margin:10px;*/
+    /*}*/
       .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
     width: 240px;
@@ -243,10 +243,10 @@ html{
     html{
       font-size: 30%;
     }
-    .bmi{
+   /* .bmi{*/
         /*width:30rem;*/
-        margin:5px;
-    }
+      /*  margin:5px;*/
+    /*}*/
     .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
     width: 220px;
