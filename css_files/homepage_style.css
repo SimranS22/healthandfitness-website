@@ -132,8 +132,8 @@ html{
 }
 
 .bmi{
-  width: 500px;
-  /*width:100rem;*/
+  /*width: 500px;*/
+  width:75rem;
   position: relative;
   margin-top: 40px;
   left: 50%;
@@ -226,7 +226,7 @@ html{
         font-size: 2rem;
       }
       .bmi{
-        width:50rem;
+       /*width:50rem;*/
           margin:10px;
     }
 
@@ -239,7 +239,7 @@ html{
       font-size: 30%;
     }
     .bmi{
-        width:50rem;
+        /*width:30rem;*/
         margin:10px;
     }
  
