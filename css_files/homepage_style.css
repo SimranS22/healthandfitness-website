@@ -225,6 +225,9 @@ html{
     .home .slide .content a {
         font-size: 2rem;
       }
+      .bmi{
+        width:50rem;
+    }
 
   }
 
@@ -233,6 +236,9 @@ html{
 
     html{
       font-size: 30%;
+    }
+    .bmi{
+        width:50rem;
     }
  
   
