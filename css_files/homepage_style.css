@@ -231,7 +231,7 @@ html{
       }
       .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
-    width: 225px;
+    width: 215px;
     transition: 0.5s;
       }
   }
@@ -247,7 +247,7 @@ html{
   }
     .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
-    width: 225px;
+    width: 210px;
     transition: 0.5s;
     }
     
