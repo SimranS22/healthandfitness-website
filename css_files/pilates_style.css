@@ -247,3 +247,18 @@ section{
         font-size: 1.5rem;
     }
 }
+
+
+@media(max-width:450px){
+    .heading{
+        width:30rem;
+        font-size: 1.4rem;
+    }
+    .inform_about .content h3{
+        font-size: 2rem;
+    }
+    .inform_about .content p{
+        font-size: 1.2rem;
+    }
+}
+
