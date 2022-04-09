@@ -168,7 +168,9 @@ section{
 }
  
 @media(max-width:450px){
-   
+   html{
+      font-size: 30%;
+    }
     .blog-box{
         margin: 20px 10px;
         width: 100%;
@@ -177,4 +179,6 @@ section{
         padding:20px;
     }
 }
+
+ 
  
