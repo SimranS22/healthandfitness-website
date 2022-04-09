@@ -232,9 +232,9 @@ html{
 
   
 @media(max-width:450px){
-  html{
+ /* html{
       font-size: 30%;
-  }
+  }*/
   .bmi{
    /* width:300px;*/
       width:50rem;
