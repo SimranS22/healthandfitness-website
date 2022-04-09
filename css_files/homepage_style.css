@@ -219,6 +219,9 @@ html{
   }
   
   @media (max-width: 768px) {
+       html{
+      font-size: 45%;
+    }
     .home .slide .content h3 {
       font-size: 4rem;
     }
