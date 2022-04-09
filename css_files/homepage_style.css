@@ -183,9 +183,9 @@ html{
     color: rgba(10, 39, 134, 0.925);
     font-size: medium;
     background: linear-gradient(45deg,rgb(172, 208, 248),rgb(255, 167, 196)); 
-    width: 150px;
+    width: 200px;
     padding: 10px;
-    border-radius: 30px;
+    border-radius: 20px;
     outline: none;
     cursor: pointer;
     margin-top: 10px;
