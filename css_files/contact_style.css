@@ -85,7 +85,7 @@ section{
     display: flex;
     background: #fff;
 }
-/* left is right, right is left */
+
 .c-right{
     flex-basis:60%;
     padding: 40px 60px;
@@ -176,6 +176,7 @@ button:hover{
 
 tr td:first-child{
     padding-top: 20px;
+    padding-right:10px;
     align-content: baseline;
     color:#fff;
     font-weight: 500;
@@ -185,8 +186,8 @@ tr td:first-child{
 
 tr td{
     text-align: left;
-    
-    padding: 20px 20px 20px 20px ;
+    padding-top:20px;
+    /*padding: 20px 20px 20px 20px ;*/
     color:#fff;
     font-weight: 500;
     font-size: large;
@@ -234,6 +235,7 @@ tr td a:hover{
 
 
 @media(max-width:991px){
+    
     .cpage{
         padding:50px;
     }
@@ -251,6 +253,9 @@ tr td a:hover{
    html{
       font-size: 30%;
     }
+    .section{
+    padding:1rem;
+    }
     
     tr td:first-child{
     padding-top: 20px;
@@ -263,7 +268,7 @@ tr td a:hover{
 
 tr td{
     text-align: left;
-    padding: 20px 20px 20px 20px ;
+    /*padding: 20px 20px 20px 20px ;*/
     color:#fff;
     font-weight: 500;
     font-size: medium;
