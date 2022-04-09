@@ -225,4 +225,15 @@ html{
         font-size: 2rem;
       }
   }
+
+  
+@media(max-width:450px){
+  html{
+      font-size: 30%;
+  }
+  .bmi{
+    width:300px;
+  }
+}
+  
   
