@@ -229,6 +229,11 @@ html{
        /*width:50rem;*/
           margin:10px;
     }
+      .bmi #weight:focus, .bmi #height:focus{
+    border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
+    width: 240px;
+    transition: 0.5s;
+      }
 
   }
 
@@ -240,8 +245,13 @@ html{
     }
     .bmi{
         /*width:30rem;*/
-        margin:10px;
+        margin:5px;
     }
+    .bmi #weight:focus, .bmi #height:focus{
+    border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
+    width: 220px;
+    transition: 0.5s;
+      }
  
   
 }
