@@ -241,9 +241,13 @@ html{
  /* html{
       font-size: 30%;
   }*/
+    html{
+      font-size: 30%;
+    }
   .bmi{
    /* width:300px;*/
       width:50rem;
+      font-size:10px;
   }
     .bmi #weight:focus, .bmi #height:focus{
     border-bottom: 0.2rem solid rgba(10, 39, 134, 0.925);
