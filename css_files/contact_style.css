@@ -257,23 +257,6 @@ tr td a:hover{
     padding:1rem;
     }
     
-    tr td:first-child{
-    padding-top: 20px;
-    align-content: baseline;
-    color:#fff;
-    font-weight: 500;
-    font-size: xx-small;
-    justify-content: space-between;
-}
-
-tr td{
-    text-align: left;
-    /*padding: 20px 20px 20px 20px ;*/
-    color:#fff;
-    font-weight: 500;
-    font-size: xx-small;
-}
-
 tr td i{
     size: 50px;
 }
