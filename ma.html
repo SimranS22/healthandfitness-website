@@ -8,6 +8,9 @@
         <title>Health&Fitness</title>
         <!-- custom css file link  -->
         <link rel="stylesheet" href="css_files/ma_style.css">
+        <link rel="stylesheet" href="css_files/header_style.css">
+        <link rel="stylesheet" href="css_files/footer_style.css"> 
+        <link rel="stylesheet" href="css_files/about_style.css">
         <!-- google icons -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <!-- swiper css link  -->
@@ -19,6 +22,27 @@
     </head>
 </head>
 <body>
+    <header class="header">
+        <a href="#" class="logo"><span><i class="fas fa-running"></i><span>Health<span>&<span>Fitness</span></span></span></a>
+     
+            <nav class="navbar">
+                <a href="index.html">HOME</a>
+                <a href="about.html">ABOUT</a>
+                <a href="nutrition.html">NUTRITION</a>
+                <a href="blog.html">BLOG</a>
+                <a href="contact.html">CONTACT</a>
+            </nav>
+        
+            <div class="icons">
+                <i id="search-btn" class="fas fa-search"></i>
+                <i id="menu-btn" class="fas fa-bars"></i>
+            </div>
+            <form action="https://www.google.com/search" method="get" class="searchbar-container">
+                <input type="search" id="searchbar" placeholder="Search Here.....">
+                <label for="searchbar" class="fas fa-search"></label>
+            </form>
+        </header>
+        <!-- header section ends -->
         <section class="heading-link">
             <h2>MARTIAL ARTS</h2>
             <p> <a href="index.html">HOME</a> / MARTIAL ARTS</p>
