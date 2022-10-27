@@ -1,5 +1,5 @@
 # healthandfitness-website
-This is a website created about health and fitness.
+This is a website created on the topic of health and fitness.
 
-To check the website out :
-https://simrans22.github.io/healthandfitness-website/
+### Check the website out :
+<https://simrans22.github.io/healthandfitness-website/>
