@@ -34,6 +34,11 @@ pagination: {
 function BMICalc() {
     var h=document.getElementById('height').value;
     var w=document.getElementById('weight').value;
+
+    if(h == null || h == "" || w == null || w == ""){
+        alert('Both Height and Weight required.');
+    }
+    else{
     var BMI=w/(h/100*h/100);
     var BMIo=(BMI.toFixed(2));
 
@@ -49,6 +54,7 @@ function BMICalc() {
     }
 
     document.getElementById("result").innerHTML="Your BMI is " + BMIo + " . You are " + `${BMICategory}` + " .";
+}
 
 }
 
