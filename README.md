@@ -47,5 +47,5 @@ This project not only serves as a practical tool for health and fitness enthusia
 4. Read motivating stories and tips in the **Blog** section.  
 5. Have questions? Check out the **FAQs** or contact us directly.  
 
-### Explore the Website:  
+## Explore the Website:  
 [Visit Health&Fitness Website](https://simrans22.github.io/healthandfitness-website/)
